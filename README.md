@@ -9,3 +9,6 @@ The contents of CrowdHMT are to be updated, including:
 * Device Condition Perception
 * Deep Model Analysis
 * Adaptive Computing
+
+## Cite
+In this repo, we appreciate a lot for functions from these contributers:
